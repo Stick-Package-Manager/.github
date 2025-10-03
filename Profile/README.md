@@ -4,3 +4,11 @@
 Our goal is to explore new ideas in package management while keeping the core lightweight, transparent, and community-driven.  
 
 🔗 Learn more: [stick-package-manager.github.io](https://stick-package-manager.github.io)
+
+## Our Projects
+
+Stick: [https://github.com/Stick-Package-Manager/stick](https://github.com/Stick-Package-Manager/stick)
+
+Stick Lite: [https://github.com/Stick-Package-Manager/lite](https://github.com/Stick-Package-Manager/lite)
+
+Stick Store: [https://github.com/Stick-Package-Manager/store](https://github.com/Stick-Package-Manager/store)
